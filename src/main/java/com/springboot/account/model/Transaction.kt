@@ -6,6 +6,7 @@ import org.hibernate.annotations.GenericGenerator
 import java.math.BigDecimal
 import java.time.LocalDateTime
 
+
 @Entity
 data class Transaction(
     @Id

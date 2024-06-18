@@ -3,6 +3,7 @@ package com.springboot.account.model
 import jakarta.persistence.*
 import org.hibernate.annotations.GenericGenerator
 
+
 @Entity
 data class Customer(
     @Id
